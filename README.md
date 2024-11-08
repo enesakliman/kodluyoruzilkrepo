@@ -6,7 +6,9 @@ Bu repo [Kodluyoruz](https://kodluyoruz.org) Front-End eğitimde oluşturduğumu
 
 Öncelikle projeyi clonelayın. 
 
-''' git clone https://github.com/enesakliman/kodluyoruzilkrepo.git '''
+``` 
+git clone https://github.com/enesakliman/kodluyoruzilkrepo.git 
+```
 
 ## Usage
 
@@ -14,8 +16,10 @@ Projeyi cloneladıktan sonra Visiul Studio Code programında açınız.
 
 Linux için:
 
-''' cd kodluyoruzilkrepo
-code . '''
+``` 
+cd kodluyoruzilkrepo 
+code . 
+```
 
 # Contributing 
 
@@ -24,3 +28,6 @@ Pull requestler kabul edilir. Büyük değişikler için, lütfen önce neyi de�
 # License
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
+
+![Proje Remimiz](markdown.png)
